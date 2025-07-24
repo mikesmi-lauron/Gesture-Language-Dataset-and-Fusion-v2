@@ -1,0 +1,8 @@
+[
+  {
+    "id": 0,
+    "target_actions": ["push"],
+    "language" : "move",
+    "gesture" : "g0"
+  }
+]

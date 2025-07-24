@@ -1,0 +1,316 @@
+{
+  "objects": [
+    {
+      "id": "cub-g-03",
+      "shape": "cube",
+      "color": "green",
+      "color_id": [0, 255, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "cube",
+        "color": "green",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-g-10",
+      "shape": "cube",
+      "color": "green",
+      "color_id": [0, 255, 0],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "cube",
+        "color": "green",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-b-03",
+      "shape": "cube",
+      "color": "blue",
+      "color_id": [0, 0, 255],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "cube",
+        "color": "blue",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-b-10",
+      "shape": "cube",
+      "color": "blue",
+      "color_id": [0, 0, 255],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "cube",
+        "color": "blue",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-r-03",
+      "shape": "cube",
+      "color": "red",
+      "color_id": [255, 0, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "cube",
+        "color": "red",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-r-10",
+      "shape": "cube",
+      "color": "red",
+      "color_id": [255, 0, 0],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "cube",
+        "color": "red",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-y-03",
+      "shape": "cube",
+      "color": "yellow",
+      "color_id": [255, 255, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "cube",
+        "color": "yellow",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cub-y-10",
+      "shape": "cube",
+      "color": "yellow",
+      "color_id": [255, 255, 0],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "cube",
+        "color": "yellow",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-g-03",
+      "shape": "sphere",
+      "color": "green",
+      "color_id": [0, 255, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "sphere",
+        "color": "green",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-g-10",
+      "shape": "sphere",
+      "color": "green",
+      "color_id": [0, 255, 0],
+      "size": [0.1, 0.01, 0.01],
+      "properties": {
+        "object_type": "sphere",
+        "color": "green",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-b-03",
+      "shape": "sphere",
+      "color": "blue",
+      "color_id": [0, 0, 255],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "sphere",
+        "color": "blue",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-b-10",
+      "shape": "sphere",
+      "color": "blue",
+      "color_id": [0, 0, 255],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "sphere",
+        "color": "blue",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-r-03",
+      "shape": "sphere",
+      "color": "red",
+      "color_id": [255, 0, 0],
+      "size": [0.03],
+      "properties": {
+        "object_type": "sphere",
+        "color": "red",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-r-10",
+      "shape": "sphere",
+      "color": "red",
+      "color_id": [255, 0, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "sphere",
+        "color": "red",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-y-03",
+      "shape": "sphere",
+      "color": "yellow",
+      "color_id": [255, 255, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "sphere",
+        "color": "yellow",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "sph-y-10",
+      "shape": "sphere",
+      "color": "yellow",
+      "color_id": [255, 255, 0],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "sphere",
+        "color": "yellow",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cyl-g-03",
+      "shape": "cylinder",
+      "color": "green",
+      "color_id": [0, 255, 0],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "cylinder",
+        "color": "green",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cyl-g-10",
+      "shape": "cylinder",
+      "color": "green",
+      "color_id": [0, 255, 0],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "cylinder",
+        "color": "green",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cyl-b-03",
+      "shape": "cylinder",
+      "color": "blue",
+      "color_id": [0, 0, 255],
+      "size": [0.03, 0.03, 0.03],
+      "properties": {
+        "object_type": "cylinder",
+        "color": "blue",
+        "size": "small",
+        "class_type": "solid"
+      }
+    },
+    {
+      "id": "cyl-b-10",
+      "shape": "cylinder",
+      "color": "blue",
+      "color_id": [0, 0, 255],
+      "size": [0.1, 0.1, 0.1],
+      "properties": {
+        "object_type": "cylinder",
+        "color": "blue",
+        "size": "big",
+        "class_type": "solid"
+      }
+    },
+{
+    "id": "cyl-r-03",
+    "shape": "cylinder",
+    "color": "red",
+    "color_id": [255, 0, 0],
+    "size": [0.03, 0.03, 0.03],
+    "properties": {
+      "object_type": "cylinder",
+      "color": "red",
+      "size": "small",
+      "class_type": "solid"
+    }
+  },
+  {
+    "id": "cyl-r-10",
+    "shape": "cylinder",
+    "color": "red",
+    "color_id": [255, 0, 0],
+    "size": [0.1, 0.1, 0.1],
+    "properties": {
+      "object_type": "cylinder",
+      "color": "red",
+      "size": "big",
+      "class_type": "solid"
+    }
+  },
+  {
+    "id": "cyl-y-03",
+    "shape": "cylinder",
+    "color": "yellow",
+    "color_id": [255, 255, 0],
+    "size": [0.03, 0.03, 0.03],
+    "properties": {
+      "object_type": "cylinder",
+      "color": "yellow",
+      "size": "small",
+      "class_type": "solid"
+    }
+  },
+  {
+    "id": "cyl-y-10",
+    "shape": "cylinder",
+    "color": "yellow",
+    "color_id": [255, 255, 0],
+    "size": [0.1, 0.1, 0.1],
+    "properties": {
+      "object_type": "cylinder",
+      "color": "yellow",
+      "size": "big",
+      "class_type": "solid"
+    }
+  }
+  ]
+}

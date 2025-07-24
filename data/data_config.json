@@ -1,0 +1,84 @@
+{
+  "object_properties":
+          [
+            "red",
+            "green",
+            "blue",
+            "yellow",
+            "small",
+            "big",
+            "cube",
+            "sphere",
+            "cylinder",
+            "solid"
+          ],
+"actions": {
+    "push": {
+        "conditions": {
+            "liftable": true,
+            "movable": true
+        },
+        "gesture_description": ["g0"],
+        "language_description": ["move"]
+    },
+    "pull": {
+        "conditions": {
+            "liftable": true,
+            "movable": true
+        },
+        "gesture_description": ["g1"],
+        "language_description": ["move"]
+    },
+    "lift": {
+        "conditions": {
+            "liftable": true,
+            "movable": true
+        },
+        "gesture_description": ["g2","g2"],
+        "language_description": ["move","demonstrate"]
+    },
+   "destroy_tower": {
+        "conditions": {
+            "liftable": false,
+            "movable": true
+        },
+        "gesture_description": ["g3"],
+        "language_description": ["move"]
+    },
+    "release": {
+        "conditions": {
+            "free": false
+        },
+        "gesture_description": ["g0"],
+        "language_description": ["demonstrate"]
+    },
+    "squeeze": {
+        "conditions": {
+            "free": true
+        },
+        "gesture_description": ["g1"],
+        "language_description": ["demonstrate"]
+    },
+    "vertical_rotation": {
+        "conditions": {
+            "liftable": true
+        },
+        "gesture_description": ["g2"],
+        "language_description": ["rotate"]
+    },
+    "horizontal_rotation": {
+        "conditions": {
+            "liftable": true
+        },
+        "gesture_description": ["g3"],
+        "language_description": ["rotate"]
+    },
+    "not_applicable": {
+        "conditions": {},
+        "gesture_description": [],
+        "language_description": []
+    }
+},
+  "words_limit": 5,
+  "objects_limit": 16
+}

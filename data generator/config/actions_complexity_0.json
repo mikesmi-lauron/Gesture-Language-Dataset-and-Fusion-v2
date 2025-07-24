@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "target_actions": ["push"],
+    "language" : "move",
+    "gesture" : "g0"
+  },
+    {
+    "id": 1,
+    "target_actions": ["pull"],
+    "language" : "move",
+    "gesture" : "g1"
+  },
+    {
+    "id": 2,
+    "target_actions": ["lift"],
+    "language" : "move",
+    "gesture" : "g2"
+  },
+    {
+    "id": 3,
+    "target_actions": ["destroy_tower"],
+    "language" : "move",
+    "gesture" : "g3"
+  }
+]

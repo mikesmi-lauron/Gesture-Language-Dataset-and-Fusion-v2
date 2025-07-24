@@ -1,0 +1,101 @@
+{
+    "working_space_bbox": {
+        "x_min": 0.0,
+        "x_max": 0.5,
+        "y_min": 0.0,
+        "y_max": 0.5,
+        "z_min": 0,
+        "z_max": 1
+    },
+    "hand_position": [
+        1,
+        0.45,
+        0.36
+    ],
+    "head_position": [
+        1,
+        0.25,
+        0.75
+    ],
+    "actions_conditions": [
+        "liftable",
+        "movable",
+        "free"
+    ],
+    "scene_variation_count": 100,
+    "correct_pointing_per_scene": 1,
+    "general_scenes_count": 1,
+    "actions": {
+        "push": {
+            "liftable": true,
+            "movable": true
+        },
+        "pull": {
+            "liftable": true,
+            "movable": true
+        },
+        "lift": {
+            "liftable": true,
+            "movable": true
+        },
+        "destroy_tower":{
+            "liftable": false,
+            "movable": true
+        },
+        "release": {
+            "free": false
+        },
+        "squeeze": {
+            "free": true
+        },
+        "vertical_rotation": {
+            "liftable": true
+        },
+        "horizontal_rotation": {
+            "liftable": true
+        }
+    },
+    "command_structure": [
+        {
+            "type": 0,
+            "structure": [
+                "action",
+                "color",
+                "object_type"
+            ]
+        },
+        {
+            "type": 1,
+            "structure": [
+                "action",
+                "color",
+                "size",
+                "object_type"
+            ]
+        },
+        {
+            "type": 2,
+            "structure": [
+                "action",
+                "object_type"
+            ]
+        },
+        {
+            "type": 3,
+            "structure": [
+                "action",
+                "color",
+                "class_type"
+            ]
+        },
+        {
+            "type": 4,
+            "structure": [
+                "action",
+                "color",
+                "size",
+                "class_type"
+            ]
+        }
+    ]
+}

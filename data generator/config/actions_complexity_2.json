@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "target_actions": ["push"],
+    "language" : "move",
+    "gesture" : "g0"
+  },
+    {
+    "id": 1,
+    "target_actions": ["pull"],
+    "language" : "move",
+    "gesture" : "g1"
+  },
+    {
+    "id": 2,
+    "target_actions": ["lift"],
+    "language" : "move",
+    "gesture" : "g2"
+  },
+    {
+    "id": 3,
+    "target_actions": ["destroy_tower"],
+    "language" : "move",
+    "gesture" : "g3"
+  },
+  {
+    "id": 4,
+    "target_actions": ["release"],
+    "language" : "demonstrate",
+    "gesture" : "g0"
+  },
+    {
+    "id": 5,
+    "target_actions": ["squeeze"],
+    "language" : "demonstrate",
+    "gesture" : "g1"
+  },
+    {
+    "id": 6,
+    "target_actions": ["lift"],
+    "language" : "demonstrate",
+    "gesture" : "g2"
+  }
+  ,
+    {
+    "id": 7,
+    "target_actions": ["vertical_rotation"],
+    "language" : "rotate",
+    "gesture" : "g2"
+  },
+    {
+    "id": 8,
+    "target_actions": ["horizontal_rotation"],
+    "language" : "rotate",
+    "gesture" : "g3"
+  }
+]

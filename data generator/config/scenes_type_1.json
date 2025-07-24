@@ -1,0 +1,39 @@
+{
+  "Scenes": [
+    {
+      "id": 0,
+      "objects": {
+        "cub-r-10": 4,
+        "cub-y-10": 4
+      }
+    },
+    {
+      "id": 1,
+      "objects": {
+        "sph-y-03": 5,
+        "sph-g-03": 5
+      }
+    },
+    {
+      "id": 2,
+      "objects": {
+        "cyl-g-10": 6,
+        "cyl-b-10": 6
+      }
+    },
+    {
+      "id": 3,
+      "objects": {
+        "sph-b-10": 7,
+        "sph-g-10": 7
+      }
+    },
+    {
+      "id": 4,
+      "objects": {
+        "cub-g-03": 8,
+        "cub-r-03": 8
+      }
+    }
+  ]
+}

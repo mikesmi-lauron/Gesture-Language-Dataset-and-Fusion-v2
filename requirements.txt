@@ -1,0 +1,7 @@
+coppeliasim_zmqremoteapi_client==2.0.4
+matplotlib==3.5.2
+numpy==1.23.1
+pandas==2.2.3
+Pillow==11.2.1
+scikit_learn==1.6.1
+torch==1.12.0
